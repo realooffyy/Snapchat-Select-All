@@ -17,7 +17,7 @@ Adds a 'Select all' button when sending a snap on https://web.snapchat.com.
 
     -   Visit `chrome://extensions/`
     -   Enable `Developer mode`
-    -   Click `Load unpacked` and select the folder containing the `manifest.json
+    -   Click `Load unpacked` and select the folder containing the `manifest.json`
 
 -   For Firefox:
     -   Visit `about:debugging#/runtime/this-firefox`
